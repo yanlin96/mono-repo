@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js! - change - tst - to compute</a>
+          Welcome to <a href="https://nextjs.org">Next.js! - change - tst - to dynamic</a>
         </h1>
 
         <p className={styles.description}>
